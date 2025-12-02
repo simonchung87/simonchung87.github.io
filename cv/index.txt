@@ -17,7 +17,7 @@ f:I[9665,[],"ViewportBoundary"]
 9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
 16:T8f4,## Education
 
-**University of California - San Diego**
+**University of California - San Diegos**
 - GPA: 3.93/4.0
 - Research focus: High-Dimensional Statistics
 
